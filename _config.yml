@@ -7,7 +7,7 @@ markdown:         kramdown
 kramdown:
   extensions: ["tables"]
 
-highlighter:         true
+# highlighter:         true
 
 
 # Setup
