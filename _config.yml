@@ -43,5 +43,5 @@ gems:
 # page lists
 pages_list:       
   # About: '/about'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+  Archive: '/archive.md'
+  # Feed: '/atom.xml'
